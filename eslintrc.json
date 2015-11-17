@@ -1,4 +1,11 @@
 {
+  "rules": {
+    "no-alert": 0,                              // alertの使用は許可する
+    "no-console": 0,                            // consoleの使用は許可する
+    "no-unused-vars": [1, {
+      "vars": "all", "args": "after-used"
+    }]
+  },
   "globals": {
     "Titanium": false,
     "Ti": false,
