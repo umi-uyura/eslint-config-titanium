@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-titanium",
+  "version": "0.0.1",
+  "description": "ESLint configuration for Appcelerator Titanium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "appcelerator",
+    "titanium",
+    "alloy"
+  ],
+  "devDependencies": {
+    "eslint": "^1.9.0"
+  },
+  "author": "Umi Uyura <umiuyura@gmail.com>",
+  "license": "MIT"
+}
